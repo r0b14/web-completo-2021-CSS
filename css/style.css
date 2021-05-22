@@ -39,6 +39,18 @@ a {
   padding: 20px;
 }
 
+#conteudo h3 {
+  border: 0px solid black;
+  color: #4b566a;
+  padding: 20px;
+}
+
+#conteudo .form {
+  border: 1px solid #4b566a;
+  flex-direction: column;
+  display: flex;
+}
+
 .tema {
   font-size: 35px;
   color: #4b566a;
